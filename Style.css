@@ -1,0 +1,40 @@
+.Info{
+    border-radius: 20px;
+    color: rgba(0, 255, 128, 0.753);
+    font-family:monospace;
+}
+
+.Images{
+    display: flex;
+    border: 10px solid violet;
+    border-radius: 50px;
+    background-color: darkgreen;
+    height: fit-content;
+    width: fit-content;
+}
+
+.Body1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: rgb(207, 205, 46);
+    border-radius: 30px;
+    width: fit-content;
+    height: fit-content;
+}
+
+.Origami{
+    background-color:navy;
+    border-radius: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.BackG{
+    background-color: darksalmon;
+}
